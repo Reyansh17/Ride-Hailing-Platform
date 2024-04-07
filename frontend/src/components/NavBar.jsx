@@ -23,7 +23,7 @@ class NavBar extends Component {
               </Navbar.Brand>
 
               <Navbar.Brand href="/" className="navbrandname">
-              <h2 style={{color:"white", fontWeight:'light'}}>RideShare</h2>
+              <h2 style={{color:"white", fontWeight:'light'}}>Ride Ease</h2>
               </Navbar.Brand>
             
             <Navbar.Collapse id="basic-navbar-nav" >

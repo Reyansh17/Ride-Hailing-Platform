@@ -24,7 +24,7 @@ import {
   import io from 'socket.io-client'
   const center = { lat: 12.9480, lng: 80.1397 }
   const { ethers } = require("ethers");
-  var endpoint="http://localhost:8000";
+  var endpoint="http://localhost:3000";
 
   const socket = io.connect(endpoint);
   function Maps() {

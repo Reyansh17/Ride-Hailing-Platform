@@ -12,6 +12,7 @@ class Home extends Component{
             connectwalletstatus: "Connect wallet",
             fortoast:"",
             message:"",
+            redirectToLogin: false
         };
     }
 
